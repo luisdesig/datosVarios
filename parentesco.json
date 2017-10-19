@@ -1,0 +1,135 @@
+{
+  "CONSANGUINIDAD": [
+    {
+      "parentesco": "Padre",
+      "grado": 1
+    },
+    {
+      "parentesco": "Madre",
+      "grado": 1
+    },
+    {
+      "parentesco": "Hijo",
+      "grado": 1
+    },
+    {
+      "parentesco": "Hija",
+      "grado": 1
+    },
+    {
+      "parentesco": "Hermano",
+      "grado": 2
+    },
+    {
+      "parentesco": "Hermana",
+      "grado": 2
+    },
+    {
+      "parentesco": "Abuelo",
+      "grado": 2
+    },
+    {
+      "parentesco": "Abuela",
+      "grado": 2
+    },
+    {
+      "parentesco": "Nieto",
+      "grado": 2
+    },
+    {
+      "parentesco": "Nieta",
+      "grado": 2
+    },
+    {
+      "parentesco": "Tío",
+      "grado": 3
+    },
+    {
+      "parentesco": "Tía",
+      "grado": 3
+    },
+    {
+      "parentesco": "Sobrino",
+      "grado": 3
+    },
+    {
+      "parentesco": "Sobrina",
+      "grado": 3
+    }
+  ],
+  "AFINIDAD": [
+    {
+      "parentesco": "Esposo",
+      "grado": 1
+    },
+    {
+      "parentesco": "Esposa",
+      "grado": 1
+    },
+    {
+      "parentesco": "Suegro",
+      "grado": 1
+    },
+    {
+      "parentesco": "Suegra",
+      "grado": 1
+    },
+    {
+      "parentesco": "Yerno",
+      "grado": 1
+    },
+    {
+      "parentesco": "Nuera",
+      "grado": 1
+    },
+    {
+      "parentesco": "Cuñado",
+      "grado": 2
+    },
+    {
+      "parentesco": "Cuñada",
+      "grado": 2
+    },
+    {
+      "parentesco": "Abuelo del Esposo",
+      "grado": 2
+    },
+    {
+      "parentesco": "Abuela del Esposo",
+      "grado": 2
+    },
+    {
+      "parentesco": "Abuelo del Esposa",
+      "grado": 2
+    },
+    {
+      "parentesco": "Abuela del Esposa",
+      "grado": 2
+    },
+    {
+      "parentesco": "Esposa del Nieto",
+      "grado": 2
+    },
+    {
+      "parentesco": "Esposo de la Nieta",
+      "grado": 2
+    },
+    {
+      "parentesco": "Esposa del Tío",
+      "grado": 3
+    },
+    {
+      "parentesco": "Esposo de la Tía",
+      "grado": 3
+    },
+    {
+      "parentesco": "Esposa del Sobrino",
+      "grado": 3
+    },
+    {
+      "parentesco": "Esposo de la Sobrina",
+      "grado": 3
+    },
+    
+  ]
+}
