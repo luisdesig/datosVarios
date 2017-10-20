@@ -134,5 +134,43 @@
       "datos": ""
     }
     ]
+  },
+  {
+  	"tipo": "",
+    "valor": "",
+    "codigo": "",
+    "nombre": "Turnos diarios",
+    "descripcion": "Turnos diarios",
+    "fecha": "",
+    "datos": "",
+    "hijos": [
+      {
+        "tipo": "",
+        "valor": "",
+        "codigo": "",
+        "nombre": "Mañana",
+        "descripcion": "Mañana",
+        "fecha": "",
+        "datos": ""
+      },
+      {
+        "tipo": "",
+        "valor": "",
+        "codigo": "",
+        "nombre": "Tarde",
+        "descripcion": "Tarde",
+        "fecha": "",
+        "datos": ""
+      },
+      {
+        "tipo": "",
+        "valor": "",
+        "codigo": "",
+        "nombre": "Noche",
+        "descripcion": "Noche",
+        "fecha": "",
+        "datos": ""
+      }
+      ]
   }
 ]
