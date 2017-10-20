@@ -1,6 +1,7 @@
 [
   {
-    "CONSANGUINIDAD": [
+    "tipo": "CONSANGUINIDAD",
+    "parentescos": [
       {
         "parentesco": "Padre",
         "grado": 1
@@ -60,7 +61,8 @@
     ]
   },
   {
-    "AFINIDAD": [
+    "tipo": "AFINIDAD",
+    "parentescos": [
       {
         "parentesco": "Esposo",
         "grado": 1
