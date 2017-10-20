@@ -172,5 +172,34 @@
         "datos": ""
       }
     ]
+  },
+  {
+    "tipo": "",
+    "valor": "",
+    "codigo": "",
+    "nombre": "Sexo",
+    "descripcion": "Sexo",
+    "fecha": "",
+    "datos": "",
+    "hijos": [
+      {
+        "tipo": "",
+        "valor": "",
+        "codigo": "",
+        "nombre": "Hombre",
+        "descripcion": "Hombre",
+        "fecha": "",
+        "datos": ""
+      },
+      {
+        "tipo": "",
+        "valor": "",
+        "codigo": "",
+        "nombre": "Mujer",
+        "descripcion": "Mujer",
+        "fecha": "",
+        "datos": ""
+      }
+      ]
   }
 ]
