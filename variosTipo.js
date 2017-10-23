@@ -201,5 +201,61 @@
         "datos": ""
       }
       ]
-  }
+  },
+  {
+  tipo: "",
+  valor: "",
+  codigo: "",
+  nombre: "Tipo de Medios de Contacto",
+  descripcion: "Tipo de Medios de Contacto",
+  fecha: "",
+  datos: "",
+  hijos: [
+    {
+      tipo: "",
+      valor: "",
+      codigo: "",
+      nombre: "Email Personal",
+      descripcion: "Email Personal",
+      fecha: "",
+      datos: ""
+    },
+    {
+      tipo: "",
+      valor: "",
+      codigo: "",
+      nombre: "Página Web Personal",
+      descripcion: "Página Web Personal",
+      fecha: "",
+      datos: ""
+    },
+    {
+      tipo: "",
+      valor: "",
+      codigo: "",
+      nombre: "Teléfono Personal",
+      descripcion: "Teléfono Personal",
+      fecha: "",
+      datos: ""
+    },
+    {
+      tipo: "",
+      valor: "",
+      codigo: "",
+      nombre: "Teléfono Fijo",
+      descripcion: "Teléfono Fijo",
+      fecha: "",
+      datos: ""
+    },
+    {
+      tipo: "",
+      valor: "",
+      codigo: "",
+      nombre: "Teléfono Trabajo",
+      descripcion: "Teléfono Trabajo",
+      fecha: "",
+      datos: ""
+    }
+  ]
+}
 ]
