@@ -1,0 +1,8 @@
+funciones Excel
+===============
+
+  encontrar posición del ultimo caracter:
+    =ENCONTRAR("@",SUSTITUIR(A2,"/","@",(LARGO(A2)-LARGO(SUSTITUIR(A2, "/","")))/LARGO(" ")))
+  
+  extraer texto desde la ultima posicion encontrada
+    =EXTRAE(A2,(ENCONTRAR("@",SUSTITUIR(A2,"/","@",(LARGO(A2)-LARGO(SUSTITUIR(A2, "/","")))/LARGO(" "))))+1,LARGO(A2))
