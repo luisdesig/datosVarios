@@ -11,4 +11,6 @@ sudo cp /etc/apache2/envvars.bak /etc/apache2/envvars
 sudo a2dismod php5
 sudo a2enmod php7.1
  
+phpmyadmin-ctl install
+ 
 sudo service apache2
